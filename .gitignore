@@ -1,0 +1,44 @@
+# Backend
+backend/.env
+backend/.env.local
+backend/vendor/
+backend/node_modules/
+backend/npm-debug.log
+backend/yarn-error.log
+backend/storage/logs/
+backend/bootstrap/cache/
+backend/.DS_Store
+backend/Thumbs.db
+backend/.vscode/
+backend/.idea/
+
+# Frontend
+frontend/node_modules/
+frontend/.env.local
+frontend/.env.*.local
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/.DS_Store
+frontend/Thumbs.db
+frontend/.vscode/
+frontend/.idea/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS
+.DS_Store
+Thumbs.db
+.env.local.php
+.phpunit.result.cache
+
+# Misc
+.env.example.local
+*.log
